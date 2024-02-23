@@ -31,6 +31,10 @@ Artist
 - collective name
 - genre
 
+Collective
+- artist
+- collective name
+- genre
 
 Release
 - name
