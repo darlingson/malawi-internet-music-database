@@ -40,3 +40,7 @@ Release
 - genre
 - number of songs
 - songs
+
+Genre
+- name
+
