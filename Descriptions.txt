@@ -14,3 +14,13 @@ Soundtrack
 A soundtrack is a collection of recordings used in an audiovisual production like a movie or television series. It can be compromised of songs from a movie or it could be the score of a production.
 Remix
 A remix is a derivative work of another recording, almost always one that has been previously released.
+
+
+Song
+- title
+- artist
+- release day
+- release type
+- release name
+- genre
+
