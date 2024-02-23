@@ -30,3 +30,13 @@ Artist
 - collective
 - collective name
 - genre
+
+
+Release
+- name
+- release day
+- release type
+- artist
+- genre
+- number of songs
+- songs
