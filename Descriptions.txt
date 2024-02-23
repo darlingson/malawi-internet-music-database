@@ -24,3 +24,9 @@ Song
 - release name
 - genre
 
+
+Artist
+- name
+- collective
+- collective name
+- genre
