@@ -1,0 +1,2124 @@
+{
+    "Songs": [
+        {
+            "title": "Handede",
+            "genre": "Afro",
+            "downloads": 987,
+            "released_year": "2023",
+            "artist": "Merchah",
+            "produced_by": "Chawa Beats",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Merchah Handede.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/10.Merchah - Handede (Prod by Chawa Beats).mp3"
+        },
+        {
+            "title": "Loss",
+            "genre": "Afro",
+            "downloads": 672,
+            "released_year": "2023",
+            "artist": "Kell Kay feat Hyphen and Eli Njuchi",
+            "produced_by": "Tricky Beats",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Kell Kay featHyphen and Eli Njuchi.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/1.Kell Kay feat Hyphen and Eli Njuchi - Loss (Prod by Tricky Beats).mp3"
+        },
+        {
+            "title": "Drip Day ",
+            "genre": "HipHop",
+            "downloads": 1512,
+            "released_year": "2023",
+            "artist": "Inno BlaQ & Juju Matrix feat Bee Jay",
+            "produced_by": "ChuxTpat$ePlan & Veda",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Inno BlaQ & Juju Matrix feat Bee Jay Drip Day.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Inno BlaQ & Juju Matrix feat Bee Jay - Drip Day (Prod by ChuxTpat$ePlan & Veda).mp3"
+        },
+        {
+            "title": "Akudwala",
+            "genre": "DanceHall",
+            "downloads": 796,
+            "released_year": "2023",
+            "artist": "Kay Stevoh",
+            "produced_by": "DJ Langie",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Kay Stevoh Akudwala.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/9.Kay Stevoh - Akudwala (Prod by DJ Langie).mp3"
+        },
+        {
+            "title": "About Me",
+            "genre": "HipHop/Trap",
+            "downloads": 645,
+            "released_year": "2023",
+            "artist": "Charisma",
+            "produced_by": "BFB",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Charisma About Me.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/7.Charisma - About Me (Prod by BFB).mp3"
+        },
+        {
+            "title": "Phe Phe",
+            "genre": "HipHop",
+            "downloads": 909,
+            "released_year": "2023",
+            "artist": "Bee Jay",
+            "produced_by": "ToniCity & ChuxTpat$ePlan",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Bee Jay Phe Phe.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/5.Bee Jay - Phe Phe (Prod by ToniCity & ChuxTpat$ePlan).mp3"
+        },
+        {
+            "title": "Yomweyo",
+            "genre": "Amapiano",
+            "downloads": 2821,
+            "released_year": "2023",
+            "artist": "Janta feat Big Xhosa x Zeze Kingston x Henwood -",
+            "produced_by": "S.U Records & Henwood",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Janta feat Big Xhosa x Zeze Kingston x Henwood Yomweyo.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Janta feat Big Xhosa x Zeze Kingston x Henwood - Yomweyo (Prod by S.U Records& Henwood).mp3"
+        },
+        {
+            "title": "Zolandila",
+            "genre": "Drill/Hiphop",
+            "downloads": 2379,
+            "released_year": "2023",
+            "artist": "Yashie The Kid ",
+            "produced_by": "STML",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Yashie The Kid Zolandira-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Yashie The Kid - Zolandila (Prod by STML).mp3"
+        },
+        {
+            "title": "Arasi",
+            "genre": "DanceHall",
+            "downloads": 465,
+            "released_year": "2023",
+            "artist": "Malinga",
+            "produced_by": "Dj Sley",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Malinga Arasi.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/3.Malinga - Arasi (Prod by DJ Sley).mp3"
+        },
+        {
+            "title": "Alamu Anu",
+            "genre": "Amapiano",
+            "downloads": 781,
+            "released_year": "2023",
+            "artist": "NyasaPiano x Zeze Kingston",
+            "produced_by": "NyasaPiano & Homeland City Ent.",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Nyasapiano x Zeze Kingston Alamu Anu-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/2.Nyasapiano x Zeze Kingston - Alamu Anu.mp3"
+        },
+        {
+            "title": "Ndalama",
+            "genre": "Afro/HipHop",
+            "downloads": 347,
+            "released_year": "2023",
+            "artist": "Born Harder",
+            "produced_by": "Jeremy Okay",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Born Harder Ndalama-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Born Harder - Ndalama (Prod by Jeremy Okay).mp3"
+        },
+        {
+            "title": "Duwa",
+            "genre": "Afro Dancehall",
+            "downloads": 1476,
+            "released_year": "2023",
+            "artist": "Eli Njuchi",
+            "produced_by": "Tricky Beats",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Eli Njuchi Duwa.png",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Eli Njuchi - Duwa.mp3"
+        },
+        {
+            "title": "Konda",
+            "genre": "Afro/RnB",
+            "downloads": 358,
+            "released_year": "2023",
+            "artist": "Fio Music",
+            "produced_by": "Yung Star",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Fio Music Konda-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/\n\nFio Music - Konda (Prod by Yung Star).mp3"
+        },
+        {
+            "title": "Njee",
+            "genre": "DanceHall",
+            "downloads": 1416,
+            "released_year": "2023",
+            "artist": "Chizmo Sting",
+            "produced_by": "Cuff-B & General Chicha",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Chizmo Sting Njee.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/8.Chizmo Sting - Njee (Prod by Cuff-B & General Chicha).mp3"
+        },
+        {
+            "title": "Tina",
+            "genre": "HipHop",
+            "downloads": 454,
+            "released_year": "2023",
+            "artist": "Phyzix feat Bee Jay & Ace Jizzy",
+            "produced_by": "BFB",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Phyzix feat Bee Jay & Ace Jizzy - Tina.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/4.Phyzix feat Bee Jay & Ace Jizzy - Tina (Prod by BFB).mp3"
+        },
+        {
+            "title": "Charo",
+            "genre": "HipHop/Trap",
+            "downloads": 401,
+            "released_year": "2023",
+            "artist": "C Wimz",
+            "produced_by": "Nic Nather & Depo",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/C Wimz Charo-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/C Wimz - Charo (Prod by Nic Nather & Depo).mp3"
+        },
+        {
+            "title": "Mpanda",
+            "genre": "Trap",
+            "downloads": 4380,
+            "released_year": "2023",
+            "artist": "Quest feat Spyral, Mellz, Blakjak & Guntolah",
+            "produced_by": "Beat Bear & Martin Anjelz",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Quest feat Spyral, Mellz, Blakjak & Guntolah Mpanda.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Quest feat Spyral, Mellz, Blakjak & Guntolah - Mpanda (Prod by Beat Bear & Martin Anjelz).mp3"
+        },
+        {
+            "title": "Because Of You",
+            "genre": "HipHop/Trap",
+            "downloads": 395,
+            "released_year": "2023",
+            "artist": "Xuise",
+            "produced_by": "Keotic",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Xuise Because of You-min.png",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Xuise - Because Of You (Prod by Keotic).mp3"
+        },
+        {
+            "title": "Muchire",
+            "genre": "Hip-Hop/Fussion",
+            "downloads": 2986,
+            "released_year": "2023",
+            "artist": "Martse feat Neo Metalz & Brown Key",
+            "produced_by": "Chawa Beats",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Martse feat Neo Metalz & Brown Key Muchire-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Martse feat Neo Metalz & Brown Key - Muchire (Prod by Chawa Beats).mp3"
+        },
+        {
+            "title": "Chule",
+            "genre": "Amapiano",
+            "downloads": 2421,
+            "released_year": "2023",
+            "artist": "Zeze Kingston x Afana Ceez x Tuno x Leumas x VJ Ice",
+            "produced_by": "Leumas",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Zeze Kingtson x Afana Ceez x Tuno x Leumas x VJ Ice Chule.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Zeze Kingston x Afana Ceez x Tuno x Leumas x VJ Ice - Chule (Prod by Leumas).mp3"
+        },
+        {
+            "title": "Chuma",
+            "genre": "Afro Fusion",
+            "downloads": 561,
+            "released_year": "2023",
+            "artist": "Jay Tway",
+            "produced_by": "OD",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Jay Tway Chuma.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Jay Tway - Chuma (Prod by OD).mp3"
+        },
+        {
+            "title": " Riziki ",
+            "genre": "Kwaito",
+            "downloads": 1716,
+            "released_year": "2023",
+            "artist": "Papa Juxy x Guntolah ",
+            "produced_by": "Mackey Beats & Juxy",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Papa Juxy x Guntolah Riziki.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Papa Juxy x Guntolah - Riziki (Prod by Mackey Beats & Juxy).mp3"
+        },
+        {
+            "title": "Dear CHH",
+            "genre": "Gospel Hiphop",
+            "downloads": 1210,
+            "released_year": "2023",
+            "artist": "Beuce Africa",
+            "produced_by": "Manifest",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Beuce Africa Dear CHH.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Beuce Africa - Dear CHH (Prod by Manifest).mp3"
+        },
+        {
+            "title": "Kupe",
+            "genre": "AfroPop",
+            "downloads": 551,
+            "released_year": "2023",
+            "artist": "Pop Young",
+            "produced_by": "Tricky Beats & Nator21",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Pop Young Love Ticket EP.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/1. Pop Young - Kupe.mp3"
+        },
+        {
+            "title": "Tamvera",
+            "genre": "New Wave/Trap",
+            "downloads": 908,
+            "released_year": "2023",
+            "artist": "KwemoGoon 265",
+            "produced_by": "Kwemo In The Mix",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/KwemoGoon 265 - Tamvera-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/KwemoGoon 265 - Tamvera (Prod by Kwemo In The Mix).mp3"
+        },
+        {
+            "title": "Onse",
+            "genre": "Dancehall",
+            "downloads": 332,
+            "released_year": "2023",
+            "artist": "Spark",
+            "produced_by": "Yacksy",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Spark Onse.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Spark - Onse (Prod by Yacksy).mp3"
+        },
+        {
+            "title": "Kwachema",
+            "genre": "Drill",
+            "downloads": 642,
+            "released_year": "2023",
+            "artist": "Afana Ceez",
+            "produced_by": "Leumas",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Afana Ceez Kingpin EP art.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Afana Ceez - Kwachema .mp3"
+        },
+        {
+            "title": "Pamajiga",
+            "genre": "Rap/Hiphop",
+            "downloads": 1196,
+            "released_year": "2023",
+            "artist": "Martse feat SevenOMore",
+            "produced_by": "Henwood",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Martse Pamajiga.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Martse feat SevenOMore - Pamajiga (Prod by Henwood).mp3"
+        },
+        {
+            "title": "Zabodza",
+            "genre": "HipHop",
+            "downloads": 432,
+            "released_year": "2023",
+            "artist": "Juju Matrix & Inno BlaQ265",
+            "produced_by": "ChuxTpat$ePlan & Veda",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Juju Matrix & Inno BlaQ265 Zabodza.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Juju Matrix & Inno BlaQ265 - Zabodza (Prod by ChuxTpat$ePlan & Veda).mp3"
+        },
+        {
+            "title": "Chekera",
+            "genre": "AfroBeats/Rap",
+            "downloads": 558,
+            "released_year": "2023",
+            "artist": "Phyzix feat Gibo Pearson",
+            "produced_by": "Sameface Beatz & Stich Fray",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Phyzix feat Gibo Pearson Chekera.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Phyzix feat Gibo Pearson - Chekera (Prod by Sameface Beatz & Stich Fray).mp3"
+        },
+        {
+            "title": "Allegik",
+            "genre": "Afrobeat",
+            "downloads": 1098,
+            "released_year": "2023",
+            "artist": "Onesimus",
+            "produced_by": "Dj Meg",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Allegik.jpeg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Onesimus - Allegik.mp3"
+        },
+        {
+            "title": "Siza Aliyense",
+            "genre": "Dancehall",
+            "downloads": 501,
+            "released_year": "2023",
+            "artist": "Di Badder featuring Squawk20Three",
+            "produced_by": "Manito",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Di Badder featuring Squawk20Three Siza Aliyense.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Di Badder featuring Squawk20Three - Siza Aliyense (Prod by Manito).mp3"
+        },
+        {
+            "title": "Born Fi Di Dance",
+            "genre": "Dancehall",
+            "downloads": 608,
+            "released_year": "2023",
+            "artist": "Mdzodzo Khomerah x Mdzodzo Carnip",
+            "produced_by": "Kauden & Macia",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Mdzodzo Khomerah x Mdzodzo Carnip Born Fi Di Dance.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Mdzodzo Khomerah x Mdzodzo Carnip - Born Fi Di Dance (Prod by Kauden & Macia).mp3"
+        },
+        {
+            "title": "Yearo",
+            "genre": "AfroBeats",
+            "downloads": 4100,
+            "released_year": "2023",
+            "artist": "Ty Fire x Comprych",
+            "produced_by": "Chawa Beats",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Ty Fire x Comprych Yearo.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Ty Fire x Comprych - Yearo (Prod by Chawa Beats).mp3"
+        },
+        {
+            "title": "Mbambande",
+            "genre": "Trap",
+            "downloads": 387,
+            "released_year": "2023",
+            "artist": "Gvstavo",
+            "produced_by": "Big Jay",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Gvstavo Gang Mbambande.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Gvstavo - Mbambande (Prod by Big Jay).mp3"
+        },
+        {
+            "title": "Tsogolo",
+            "genre": "Trap Dancehall",
+            "downloads": 710,
+            "released_year": "2023",
+            "artist": "Queesy",
+            "produced_by": "Mcee & Crux",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Quessy Tsogolo-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Queesy - Tsogolo (Prod by Mcee & Crux).mp3"
+        },
+        {
+            "title": "The Other Side",
+            "genre": "Fussion",
+            "downloads": 565,
+            "released_year": "2023",
+            "artist": "Desert Igwe",
+            "produced_by": "Desert Igwe",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Desert Igwe The Other Side.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Desert Igwe - The Other Side (Prod by Desert Igwe).mp3"
+        },
+        {
+            "title": "Kuche Kuche",
+            "genre": "Amapiano",
+            "downloads": 1163,
+            "released_year": "2023",
+            "artist": "Spyral Mwenya feat VJ Ice & Africa The DJ",
+            "produced_by": "Gusto & ZeroOneFive",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Spyral Mwenya feat VJ Ice & Africa The DJ Kuche Kuche.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Spyral Mwenya feat VJ Ice & Africa The DJ - Kuche Kuche (Prod by Gusto & ZeroOneFive).mp3"
+        },
+        {
+            "title": "Nena",
+            "genre": "AfroBeats",
+            "downloads": 3933,
+            "released_year": "2023",
+            "artist": "R Jai ",
+            "produced_by": "Fadoum",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/R Jai Nena-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/R Jai - Nena (Prod by Fadoum).mp3"
+        },
+        {
+            "title": "Uzisiya Wekha",
+            "genre": "Amapiano",
+            "downloads": 1086,
+            "released_year": "2023",
+            "artist": "Tonicity, ChuxTpat$ePlan feat Phrey Willz & Eustice",
+            "produced_by": "Toni City",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/ChuxTpat$ePlan feat Phrey Willz & Eustice Uzisiya.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/ChuxTpat$ePlan feat Phrey Willz & Eustice - Uzisiya Wekha (Prod by Toni City).mp3"
+        },
+        {
+            "title": "Yabaya",
+            "genre": "Afro",
+            "downloads": 2964,
+            "released_year": "2023",
+            "artist": "Eli Njuchi feat Yo Maps",
+            "produced_by": "Tricky Beats, J Mas & Sispence",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Eli Njuchi feat Yo Maps Yabaya.png",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Eli Njuchi feat Yo Maps - Yabaya (Prod by Tricky Beats, J Mas & Sispence).mp3"
+        },
+        {
+            "title": "Motumbwa",
+            "genre": "Hip-Hop",
+            "downloads": 891,
+            "released_year": "2023",
+            "artist": "Same Cris",
+            "produced_by": "Gonos",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Same Cris Motumbwa.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Same Cris - Motumbwa (Prod by Gonos).mp3"
+        },
+        {
+            "title": "Strong'ong'o",
+            "genre": "Afrobeats",
+            "downloads": 352,
+            "released_year": "2023",
+            "artist": "Zamau",
+            "produced_by": "Dynamo & Higrammes",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Zamau Strong'ong'o.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Zamau - Strong'ong'o (Prod by Dynamo & Higrammes).mp3"
+        },
+        {
+            "title": "BBC Remix",
+            "genre": "HipHop",
+            "downloads": 1905,
+            "released_year": "2023",
+            "artist": "Henry Czar feat Zonke x Ace Jizzy x Bee Jay x Em Zibry",
+            "produced_by": "DJ Brown",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Henry Czar x Zonke x Ace Jizzy x Bee Jay x Em Zibry BBC Remix.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Henry Czar feat Zonke x Ace Jizzy x Bee Jay x Em Zibry - BBC Remix (Prod by DJ Brown).mp3"
+        },
+        {
+            "title": "Zikuti Bwanji",
+            "genre": "AfroBeat",
+            "downloads": 3251,
+            "released_year": "2023",
+            "artist": "Tygon Lessah",
+            "produced_by": "Tygon",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Tygon Lessah Zikuti-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Tygon Lessah - Zikuti Bwanji (Prod by Tygon).mp3"
+        },
+        {
+            "title": "Ngini",
+            "genre": "Afro Dancehall",
+            "downloads": 1029,
+            "released_year": "2023",
+            "artist": "Chibelekelo",
+            "produced_by": "DJ Langie",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Chibelekelo Ngini.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Chibelekelo - Ngini (Prod by DJ Langie).mp3"
+        },
+        {
+            "title": "With",
+            "genre": "Afro Dancehall",
+            "downloads": 571,
+            "released_year": "2023",
+            "artist": "Finah Mapira",
+            "produced_by": "Dj OK",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Finah Mapira With.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Finah Mapira - With (Prod by DJ OK).mp3"
+        },
+        {
+            "title": "Kwacha",
+            "genre": "Afro Pop",
+            "downloads": 2053,
+            "released_year": "2023",
+            "artist": "Joe Kellz",
+            "produced_by": "Sispence",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Joe Kellz Kwacha.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Joe Kellz - Kwacha (Prod by Sispence).mp3"
+        },
+        {
+            "title": "G.O.A.T",
+            "genre": "DanceHall",
+            "downloads": 1535,
+            "released_year": "2023",
+            "artist": "Lazy B",
+            "produced_by": "M Cee & Mexy Beats",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Lazy B G.O.A.T-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Lazy B - G.O.A.T (Prod by M Cee & Mexy Beats).mp3"
+        },
+        {
+            "title": "Faya",
+            "genre": "Afro Dancehall",
+            "downloads": 0,
+            "released_year": "2023",
+            "artist": "Jay Jay Cee feat. Bunny",
+            "produced_by": "Zephy Oldies",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Jay Jay Cee featuring Bunny Faya-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Jay Jay Cee featuring Bunny - Faya (Prod by Zephy Oldies).mp3"
+        },
+        {
+            "title": "Palibe",
+            "genre": "Afro Dancehall",
+            "downloads": 2748,
+            "released_year": "2023",
+            "artist": "Dada Morer ",
+            "produced_by": null,
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Dada Morer Palibe.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Dada Morer - Palibe (Prod by S Nay).mp3"
+        },
+        {
+            "title": "Runaway",
+            "genre": "Afro Pop",
+            "downloads": 311,
+            "released_year": "2023",
+            "artist": "Zacio Mw ",
+            "produced_by": " DK Media House",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Zacio Mw Runaway.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Zacio Mw - Runaway (Prod by DK Media House).mp3"
+        },
+        {
+            "title": "Ukanandiziwa Kaye",
+            "genre": "AfroBeats",
+            "downloads": 3467,
+            "released_year": "2023",
+            "artist": "Guntolah",
+            "produced_by": "Jeydak",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Guntolah Ukanandiziwa Kaye-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Guntolah - Ukanandiziwa Kaye (Prod by Jeydak).mp3"
+        },
+        {
+            "title": " Last Option",
+            "genre": "Dancehall",
+            "downloads": 27,
+            "released_year": "2023",
+            "artist": "Captain Shaka feat Kay Stevoh",
+            "produced_by": "Big Dawg",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Captain Shaka feat Kay Stevoh Last Option.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Captain Shaka feat Kay Stevoh Last Option.jpg"
+        },
+        {
+            "title": "Macheza",
+            "genre": "Trap",
+            "downloads": 754,
+            "released_year": "2023",
+            "artist": "Mic Mash",
+            "produced_by": "Mic Mash",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Mic Mash Macheza.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Mic Mash - Macheza.mp3"
+        },
+        {
+            "title": "Mupangeni Post",
+            "genre": "Drill",
+            "downloads": 5406,
+            "released_year": "2023",
+            "artist": "Heji Mw feat Mwanache & Yashie The Kid",
+            "produced_by": "STML & Viun",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Heji Mw feat Mwanache & Yashie The Kid Mupangeni Post.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Heji Mw feat Mwanache & Yashie The Kid - Mupangeni Post (Prod by STML & Viun).mp3"
+        },
+        {
+            "title": "Fast Fast",
+            "genre": "HipHop",
+            "downloads": 3883,
+            "released_year": "2023",
+            "artist": "Ace Jizzy & Bee Jay",
+            "produced_by": "BFB & Daredevilz",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Ace Jizzy & Bee Jay Fast Fast.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Ace Jizzy & Bee Jay - Fast Fast (Prod by BFB & Daredevilz).mp3"
+        },
+        {
+            "title": "Only You",
+            "genre": "Dancehall",
+            "downloads": 799,
+            "released_year": "2023",
+            "artist": "Eustice",
+            "produced_by": "Bensam Entertainment",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Eustice Only You.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Eustice - Only You.mp3"
+        },
+        {
+            "title": "Ndanzanga",
+            "genre": "House",
+            "downloads": 555,
+            "released_year": "2023",
+            "artist": "Starnel Mon",
+            "produced_by": "Starnel Mon",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Starnel Mon Ndanzanga.png",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Starnel Mon - Ndanzanga (Prod by Starnel Mon).mp3"
+        },
+        {
+            "title": "Zikomo ",
+            "genre": "Afro Dancehall",
+            "downloads": 1050,
+            "released_year": "2023",
+            "artist": "Kapadocia",
+            "produced_by": "Macia",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Kapadocia Zikomo.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Kapadocia - Zikomo (Prod by Macia).mp3"
+        },
+        {
+            "title": "Ii oo!!",
+            "genre": "Trap",
+            "downloads": 1203,
+            "released_year": "2023",
+            "artist": "HyCee",
+            "produced_by": "Dynamo",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Hycee Ii oo!!.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/HyCee - Ii oo!! (Prod by Dynamo).mp3"
+        },
+        {
+            "title": "Tumeni",
+            "genre": "Amapiano",
+            "downloads": 1966,
+            "released_year": "2023",
+            "artist": "Temwah featuring Tuksin SA",
+            "produced_by": "Unknown",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Temwah featuring Tuksin SA Tumeni.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Temwah featuring Tuksin SA - Tumeni.mp3"
+        },
+        {
+            "title": "Level Pa Level",
+            "genre": "Amapiano",
+            "downloads": 610,
+            "released_year": "2023",
+            "artist": "Luv C",
+            "produced_by": " C-Kay & Noxy",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Luv C Level Pa Level.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Luv C - Level Pa Level (Prod by C-Kay & Noxy).mp3"
+        },
+        {
+            "title": "Mission",
+            "genre": "HipHop",
+            "downloads": 1090,
+            "released_year": "2023",
+            "artist": "King Tuzi feat. Quest",
+            "produced_by": "Trappy Beats",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/King Tuzi feat Quest Mission.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/King Tuzi feat Quest - Mission (Prod by Trappy Beats).mp3"
+        },
+        {
+            "title": " Usamasilire",
+            "genre": "AfroBeats",
+            "downloads": 1181,
+            "released_year": "2023",
+            "artist": "Max Ngwana",
+            "produced_by": "Viddiex Fyah & Tyro",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Max Ngwana Usamasilire.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Max Ngwana - Usamasilire (Prod by Viddiex Fyah & Tyro).mp3"
+        },
+        {
+            "title": "Ndalama (Remix)",
+            "genre": "Amapiano",
+            "downloads": 4269,
+            "released_year": "2023",
+            "artist": "Trappy Beats feat Quest & Zeze Kingston ",
+            "produced_by": "Trappy Beats",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Trappy Beats Ndalama.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Trappy Beats feat Quest & Zeze Kingston - Ndalama (Remix).mp3"
+        },
+        {
+            "title": "Top Skanka",
+            "genre": "Dancehall",
+            "downloads": 1054,
+            "released_year": "2023",
+            "artist": "Ah Shatter feat Chargie ",
+            "produced_by": "G.I.B Records",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Ah Shatter feat Chargie Top Skanka-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Ah Shatter feat Chargie - Top Skanka (Prod by G.I.B Records).mp3"
+        },
+        {
+            "title": "Tilimakola",
+            "genre": "Afro/Dancehall",
+            "downloads": 507,
+            "released_year": "2023",
+            "artist": "C-Wimz feat Oskanjo & Lazy B",
+            "produced_by": "Ley C & MCee",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/C-Wimz feat Oskanjo & Lazy B Tilimakola-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/C-Wimz feat Oskanjo & Lazy B - Tilimakola (Prod by Ley C & MCee).mp3"
+        },
+        {
+            "title": "Ufulu",
+            "genre": "AfroBeats",
+            "downloads": 2102,
+            "released_year": "2023",
+            "artist": "Wakisa James",
+            "produced_by": "Kenlo & Nyanda",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Wakisa James Ufulu.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Wakisa James - Ufulu (Prod by Kenlo & Nyanda).mp3"
+        },
+        {
+            "title": "\"status\"",
+            "genre": "Dancehall/Hiphop",
+            "downloads": 501,
+            "released_year": "2023",
+            "artist": "Clash D x Assurance x Wego x Jay Tee x Chell Dee x C Kay x H More x Kell Bon x Don Brown",
+            "produced_by": "DJ Brown & DJ Mo",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Clash D x Assurance x Wego x Jay Tee x Chell Dee x C Kay x H More x Kell Bon x Don Brown \"status\".jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Clash D x Assurance x Wego x Jay Tee x Chell Dee x C Kay x H More x Kell Bon x Don Brown - \"status\" (Prod by DJ Brown & DJ Moo).mp3"
+        },
+        {
+            "title": "Bwela",
+            "genre": "Afro R&B/Soul",
+            "downloads": 725,
+            "released_year": "2023",
+            "artist": "Kal-El Music ",
+            "produced_by": "Dr Udio",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Kal-El Music Bwela-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Kal-El Music - Bwela (Prod by Dr Udio).mp3"
+        },
+        {
+            "title": "Telera",
+            "genre": "Afro-Dancehall",
+            "downloads": 1046,
+            "released_year": "2023",
+            "artist": "Blaze & Fillah ",
+            "produced_by": "Ryan Chana",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Blaze & Fillah Telera.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Blaze & Fillah - Telera (Prod by Ryan Chana).mp3"
+        },
+        {
+            "title": "Mwana Bullet",
+            "genre": "Afro",
+            "downloads": 181,
+            "released_year": "2023",
+            "artist": "Kid Buba ",
+            "produced_by": " Ley C & Phantom",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Kid Buba Mwana Bullet.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Kid Buba - Mwana Bullet (Prod By Ley C & Phantom).mp3"
+        },
+        {
+            "title": "Ndungomveka",
+            "genre": "Trap",
+            "downloads": 629,
+            "released_year": "2023",
+            "artist": "Troy Mw feat Blaq Eagle",
+            "produced_by": "DJ Hoodie King & Slumble",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Troy Mw feat Blaq Eagle Ndungomveka.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Troy Mw feat Blaq Eagle - Ndungomveka (Prod by DJ Hoodie King & Slumble).mp3"
+        },
+        {
+            "title": "Tidyera ",
+            "genre": "AfroBeats",
+            "downloads": 1279,
+            "released_year": "2023",
+            "artist": "Tronee",
+            "produced_by": "King Duda",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Tronee Tidyera-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Tronee - Tidyera (Prod by King Duda).mp3"
+        },
+        {
+            "title": "Annointed",
+            "genre": "DanceHall",
+            "downloads": 2262,
+            "released_year": "2023",
+            "artist": "Sean Morgan",
+            "produced_by": "Cuff B",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Sean Morgan Annointed-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Sean Morgan - Annointed (Prod by Cuff B).mp3"
+        },
+        {
+            "title": "Kuti",
+            "genre": "Afro",
+            "downloads": 1582,
+            "released_year": "2023",
+            "artist": "Provoice",
+            "produced_by": "C Kay",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/ProVoice Kuti.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/ProVoice - Kuti (Prod by C Kay).mp3"
+        },
+        {
+            "title": "Tamutenga ",
+            "genre": "Amapiano",
+            "downloads": 2753,
+            "released_year": "2023",
+            "artist": "Aidfest & Kineo",
+            "produced_by": "Stafa Awosh",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Aidfest & Kineo Tamutenga-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Aidfest & Kineo - Tamutenga (Prod by Stafa Awosh).mp3"
+        },
+        {
+            "title": "Bill Yanga",
+            "genre": "Dancehall",
+            "downloads": 2809,
+            "released_year": "2023",
+            "artist": "Malinga Mafia",
+            "produced_by": "Dj Sley",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Malinga Bill Yanga.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Malinga - Bill Yanga (Prod by DJ Sley).mp3"
+        },
+        {
+            "title": "Inshallah",
+            "genre": "Afro R&B",
+            "downloads": 396,
+            "released_year": "2023",
+            "artist": "Lexa Cee",
+            "produced_by": " Ron Viun",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Lexa Cee Inshallah.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Lexa Cee - Inshallah (Prod by Ron Viun).mp3"
+        },
+        {
+            "title": "Unkati",
+            "genre": "Afro Dancehall",
+            "downloads": 727,
+            "released_year": "2023",
+            "artist": "Eustice feat Blaze",
+            "produced_by": "Warge",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Eustice feat Blaze Unkati.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Eustice feat Blaze - Unkati (Prod by Warge).mp3"
+        },
+        {
+            "title": "Kugwesa",
+            "genre": "Afro",
+            "downloads": 767,
+            "released_year": "2023",
+            "artist": "Lay B Salima",
+            "produced_by": "Okay",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Lay B Salima - Kugwetsa.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Lay B Salima - Kugwetsa (Prod by Okay).mp3"
+        },
+        {
+            "title": "Energy Drink ",
+            "genre": "AfroBeats",
+            "downloads": 477,
+            "released_year": "2023",
+            "artist": "D Chris feat Da Elz",
+            "produced_by": "Magga Mw & DJ Brown",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/D Chris feat Da Elz Energy Drink.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/D Chris feat Da Elz - Energy Drink (Prod by Magga Mw & DJ Brown).mp3"
+        },
+        {
+            "title": "Kwakoma Ndikunoko",
+            "genre": "Hiphop",
+            "downloads": 313,
+            "released_year": "2023",
+            "artist": "Nature Fact",
+            "produced_by": "The Daredevilz",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Nature Fact Kwakoma Ndikunoko-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Nature Fact - Kwakoma Ndikunoko (Prod by The Daredevilz).mp3"
+        },
+        {
+            "title": "Fire ",
+            "genre": "Hiphop",
+            "downloads": 891,
+            "released_year": "2023",
+            "artist": "Jasamah",
+            "produced_by": "DJ Cover",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Jasamah Fire.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Jasamah - Fire (Prod by DJ Cover).mp3"
+        },
+        {
+            "title": "Magazi",
+            "genre": "Trap",
+            "downloads": 1015,
+            "released_year": "2023",
+            "artist": "Adha Yung Z",
+            "produced_by": "Famous",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Adha Yung Z Magazi.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Adha Yung Z - Magazi (Prod by Famous).mp3"
+        },
+        {
+            "title": "Punch",
+            "genre": "Afro",
+            "downloads": 268,
+            "released_year": "2023",
+            "artist": "Keli Mwana P",
+            "produced_by": "WassaReal",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Keli Mwana P Punch.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Keli Mwana P - Punch (Prod by WassaReal).mp3"
+        },
+        {
+            "title": "Tripper",
+            "genre": "Trap",
+            "downloads": 292,
+            "released_year": "2023",
+            "artist": "DBturnUp",
+            "produced_by": "Migan",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/DBturnUp Tripper.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/DBturnUp - Tripper (Prod by Migan).mp3"
+        },
+        {
+            "title": "Mudyela Pansi",
+            "genre": "HipHop",
+            "downloads": 2386,
+            "released_year": "2023",
+            "artist": "Achina Gattah Ase feat Dirty Flow",
+            "produced_by": "Martin Anjelz, GD & Red Light Beats",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Achina Gattah Ase feat Dirty Flow Mudyela Pansi.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Achina Gattah Ase feat Dirty Flow - Mudyela Pansi (Prod by Martin Anjelz, GD & Red Light Beats).mp3"
+        },
+        {
+            "title": "Wamkulu",
+            "genre": "Dancehall",
+            "downloads": 714,
+            "released_year": "2023",
+            "artist": "Jay Ting & Blasto",
+            "produced_by": "King Duda & Klassy",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Jay Ting & Blasto Wamkulu.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Jay Ting & Blasto - Wamkulu (Prod by King Duda & Klassy).mp3"
+        },
+        {
+            "title": " Mtima",
+            "genre": "Dancehall",
+            "downloads": 714,
+            "released_year": "2023",
+            "artist": "Ababa Surgeant ",
+            "produced_by": "Stich Fray",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Ababa Surgeant Mtima-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Ababa Surgeant - Mtima (Prod by Stich Fray).mp3"
+        },
+        {
+            "title": " My Place",
+            "genre": "Dancehall",
+            "downloads": 1952,
+            "released_year": "2023",
+            "artist": "Chargie",
+            "produced_by": "Big Trump & Trim Ex",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Chargie My Place.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Chargie - My Place (Prod by Big Trump & Trim Ex).mp3"
+        },
+        {
+            "title": "Wamkwangu",
+            "genre": "Afro Fusion",
+            "downloads": 391,
+            "released_year": "2023",
+            "artist": "Roudeezy",
+            "produced_by": "Sniky & Ace Tee Beats",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Roudeezy Wamkwangu.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Roudeezy - Wamkwangu (Prod by Sniky & Ace Tee Beats).mp3"
+        },
+        {
+            "title": "Vyapachalo",
+            "genre": "AfroBeats",
+            "downloads": 3342,
+            "released_year": "2023",
+            "artist": "Merchah",
+            "produced_by": "Chawa Beats & Del B",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Merchah Vyapachalo-2.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Merchah - Vyapachalo (Prod by Chawa Beats & Del B).mp3"
+        },
+        {
+            "title": " Steve",
+            "genre": "Dancehall",
+            "downloads": 446,
+            "released_year": "2023",
+            "artist": "Huplex Thosa ",
+            "produced_by": "Landie",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Huplex Thosa Steve-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Huplex Thosa - Steve (Prod by Landie).mp3"
+        },
+        {
+            "title": "Under Pressure",
+            "genre": "Dancehall",
+            "downloads": 822,
+            "released_year": "2023",
+            "artist": "Dotolo",
+            "produced_by": "Star Bright & Mad Yut",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Dotolo Under Pressure-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Dotolo - Under Pressure (Prod by Star Bright & Mad Yut).mp3"
+        },
+        {
+            "title": "Wadzutsa Ghetto ",
+            "genre": "Christian Hihop",
+            "downloads": 404,
+            "released_year": "2023",
+            "artist": "Blessed Citizen",
+            "produced_by": "Sir Odilo",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Blessed Citizen Wadzutsa Ghetto-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Blessed Citizen - Wadzutsa Ghetto (Prod by Sir Odilo).mp3"
+        },
+        {
+            "title": "Mwandiolotsa",
+            "genre": "Afro",
+            "downloads": 3890,
+            "released_year": "2023",
+            "artist": "Faith Mussa feat. Suffix ",
+            "produced_by": "Faith Mussa",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Faith Mussa featuring Suffix Mwandiolotsa.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Faith Mussa featuring Suffix - Mwandiolotsa.mp3"
+        },
+        {
+            "title": "My Business",
+            "genre": "HipHop",
+            "downloads": 898,
+            "released_year": "2023",
+            "artist": "Cozizwa feat Seven O More",
+            "produced_by": "Cozizwa",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Cozizwa feat Seven O More My Business.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Cozizwa feat Seven O More - My Business (Prod by Cozizwa).mp3"
+        },
+        {
+            "title": "Zosiyana",
+            "genre": "AfroBeat",
+            "downloads": 515,
+            "released_year": "2023",
+            "artist": "PQ & Feyos feat Macia & Uchie",
+            "produced_by": "Cuff-B",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/PQ & Feyos feat Macia & Uchie Zosiyana-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/PQ & Feyos feat Macia & Uchie - Zosiyana (Prod by Cuff-B).mp3"
+        },
+        {
+            "title": "Mpoko Mpoko Remix",
+            "genre": "HipHop",
+            "downloads": 919,
+            "released_year": "2023",
+            "artist": "Ace Jizzy feat Veda Njuci, K-Banton, Kellie Divine, Bee Jay, Lady Aika, Sean Morgan & JEG",
+            "produced_by": "Trappy Beats & ChuxTpat$e Plan",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Ace Jizzy Mpoko Mpoko Remix.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/6.Ace Jizzy feat Veda Njuci, K-Banton, Kellie Divine, Bee Jay, Lady Aika, Sean Morgan & JEG - Mpoko Mpoko Remix (Prod by Trappy Beats & ChuxTpat$e Plan).mp3"
+        },
+        {
+            "title": "For You",
+            "genre": "AfroBeats",
+            "downloads": 890,
+            "released_year": "2023",
+            "artist": "Cee Gee",
+            "produced_by": "Mr Pac",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Cee Gee For You-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Cee Gee - For You (Prod by Mr Pac).mp3"
+        },
+        {
+            "title": "Tamara",
+            "genre": "AfroBeat",
+            "downloads": 1232,
+            "released_year": "2023",
+            "artist": "Troy Mw & Baby J",
+            "produced_by": " Ron Viun & Yoba",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Troy Mw & Baby J Tamara-min.png",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Troy Mw & Baby J - Tamara (Prod by Ron Viun & Yoba).mp3"
+        },
+        {
+            "title": "Umwa",
+            "genre": "Amapiano",
+            "downloads": 957,
+            "released_year": "2023",
+            "artist": "Mellz Kumpanje feat Zeze Kingston x Trixie Beyank x Martin Anjelz x Zonke",
+            "produced_by": "Leumas & Martin Anjelz",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Mellz Kumpanje feat Zeze Kingston x Trixie Beyank x Martin Anjelz - Umwa.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Mellz Kumpanje feat Zeze Kingston x Trixie Beyank x Martin Anjelz x Zonke - Umwa (Prod by Leumas & Martin Anjelz).mp3"
+        },
+        {
+            "title": "Vuto",
+            "genre": "HipHop",
+            "downloads": 3961,
+            "released_year": "2023",
+            "artist": "QDA x Risky Oganja x Thizzy x Afron 26 x Quest",
+            "produced_by": " Higrames",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/QDA x Risky Oganja x Thizzy x Afron 26 x Quest Vuto.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/QDA x Risky Oganja x Thizzy x Afron 26 x Quest - Vuto (Prod by Higrames).mp3"
+        },
+        {
+            "title": "Nah Worry",
+            "genre": "AfroBeats",
+            "downloads": 1116,
+            "released_year": "2023",
+            "artist": "Ainno Busy",
+            "produced_by": " Nic Nather",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Ainno Busy Nah Worry.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Ainno Busy - Nah Worry (Prod by Nic Nather).mp3"
+        },
+        {
+            "title": "Ndinu Nomwe",
+            "genre": "Afro Pop",
+            "downloads": 397,
+            "released_year": "2023",
+            "artist": "Masai",
+            "produced_by": "LeMe & Veda Beats",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Masai Ndinu Nomwe.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Masai - Ndinu Nomwe (Prod by LeMe & Veda Beats).mp3"
+        },
+        {
+            "title": " Gangster",
+            "genre": "Afro Fusion",
+            "downloads": 457,
+            "released_year": "2023",
+            "artist": "Wangakid GTS",
+            "produced_by": "OD",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Wangakid GTS.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Wangakid GTS - Gangster (Prod by OD).mp3"
+        },
+        {
+            "title": "Tayima",
+            "genre": "HipHop",
+            "downloads": 1045,
+            "released_year": "2023",
+            "artist": "Third Eye & Martin Anjelz featuring Janta",
+            "produced_by": "Martin Anjelz",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Third Eye & Martin Anjelz feat Janta Tayima.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Third Eye & Martin Anjelz featuring Janta - Tayima (Prod by Martin Anjelz).mp3"
+        },
+        {
+            "title": "Greedy Man",
+            "genre": "Afro Dancehall",
+            "downloads": 285,
+            "released_year": "2023",
+            "artist": "Jam Bwouy",
+            "produced_by": " Cornel Beats",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Jam Bwouy Greedy Man.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Jam Bwouy - Greedy Man (Prod by Cornel Beats).mp3"
+        },
+        {
+            "title": "On Fire",
+            "genre": "Amapiano",
+            "downloads": 1623,
+            "released_year": "2023",
+            "artist": "Jillz x Wapkid",
+            "produced_by": "Jillz",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Jillz x Wapkid On Fire.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Jillz x Wapkid - On Fire (Prod by Jillz).mp3"
+        },
+        {
+            "title": "Offside",
+            "genre": "Dancehall",
+            "downloads": 664,
+            "released_year": "2023",
+            "artist": "Don Gogo x Don Kago ",
+            "produced_by": "Yacksy Joker",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Don Gogo x Don Kago Offside.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Don Gogo x Don Kago - Offside (Prod by Yacksy Joker).mp3.mp3"
+        },
+        {
+            "title": "Adha Bwana",
+            "genre": "Amapiano",
+            "downloads": 704,
+            "released_year": "2023",
+            "artist": "Nofix The DJ x DJ Nathan Tunes & Java",
+            "produced_by": "King Duda x Nofix The DJ",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Nofix The DJ x DJ Nathan Tunes & Java Adha Bwana.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Nofix The DJ x DJ Nathan Tunes & Java - Adha Bwana (Prod by King Duda x Nofix The DJ).mp3"
+        },
+        {
+            "title": "Timing ",
+            "genre": "Trap",
+            "downloads": 315,
+            "released_year": "2023",
+            "artist": "Bel P",
+            "produced_by": "Stafa Awosh",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Bel P Timing.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Bel P - Timing (Prod by Stafa Awosh).mp3"
+        },
+        {
+            "title": "Woko",
+            "genre": "AfroPop",
+            "downloads": 837,
+            "released_year": "2023",
+            "artist": "Pop Young feat. Gwamba",
+            "produced_by": "Taktic",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Pop Young Love Ticket EP.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/2. Pop Young - Woko featuring Gwamba.mp3"
+        },
+        {
+            "title": "Munditenga",
+            "genre": "Amapiano",
+            "downloads": 1514,
+            "released_year": "2023",
+            "artist": "Leumas x Richard Billy x DJ Happ",
+            "produced_by": "Leumas & VJ Ice",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/VJ Ice x Tuno feat Leumas x Richard Billy x DJ Happy Munditenga.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/VJ Ice x Tuno feat Leumas x Richard Billy x DJ Happy - Munditenga (Prod by Leumas & VJ Ice).mp3"
+        },
+        {
+            "title": "Osamandiyesa",
+            "genre": "Afro Drill",
+            "downloads": 1984,
+            "released_year": "2023",
+            "artist": "Macelba",
+            "produced_by": "Macelba",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Macelba Osamandiyesa.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Macelba - Osamandiyesa.mp3"
+        },
+        {
+            "title": "Azipsya",
+            "genre": "Afro-Pop",
+            "downloads": 470,
+            "released_year": "2023",
+            "artist": "Forbra Vybz ",
+            "produced_by": "Forbra Vybz ",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Forbra Vybz Azipsya Mtima.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Forbra Vybz - Azipsya Mtima (Prod by Forbra Vybz).mp3"
+        },
+        {
+            "title": "Kalira Mandede",
+            "genre": "Amapiano",
+            "downloads": 3229,
+            "released_year": "2023",
+            "artist": "V3nja",
+            "produced_by": "Xhigo",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/V3nja Kalira Mandede-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/V3nja - Kalira Mandede (Prod by Xhigo).mp3"
+        },
+        {
+            "title": " Nthawi",
+            "genre": "Trap",
+            "downloads": 347,
+            "released_year": "2023",
+            "artist": "Risky Oganja x Afron 26 x QDA x Thizzy",
+            "produced_by": "Higrammes",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Risky Oganja x Afron 26 x QDA x Thizzy Nthawi.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Risky Oganja x Afron 26 x QDA x Thizzy - Nthawi (Prod by Higrammes).mp3"
+        },
+        {
+            "title": "Malonje",
+            "genre": "HipHop",
+            "downloads": 1431,
+            "released_year": "2023",
+            "artist": "Tadala",
+            "produced_by": "The Daredevilz & ChuxTpat$ePlan",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Tadala Malonje.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Tadala - Malonje (Prod by The Daredevilz & ChuxTpat$ePlan).mp3"
+        },
+        {
+            "title": "Bokana",
+            "genre": "AfroBeat",
+            "downloads": 3506,
+            "released_year": "2023",
+            "artist": "Malimba",
+            "produced_by": "Stafa Awosh",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Malimba Bokana-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Malimba - Bokana (Prod by Stafa Awosh).mp3"
+        },
+        {
+            "title": "Hawaii",
+            "genre": "HipHop",
+            "downloads": 4826,
+            "released_year": "2023",
+            "artist": "Charisma & Quest",
+            "produced_by": "Unknown",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Charisma x Quest Hawaii.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Charisma & Quest - Hawaii.mp3"
+        },
+        {
+            "title": "Nobody",
+            "genre": "Dancehall",
+            "downloads": 526,
+            "released_year": "2023",
+            "artist": "Desert Igwe",
+            "produced_by": "Desert Igwe",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Desert Igwe Nobody.png",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Desert Igwe - Nobody (Prod by Desert Igwe).mp3"
+        },
+        {
+            "title": "Ukanene",
+            "genre": "Afro-Pop",
+            "downloads": 301,
+            "released_year": "2023",
+            "artist": "K-Jicks",
+            "produced_by": " King Duda",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/K-Jicks Ukanene.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/K-Jicks - Ukanene (Prod by King Duda).mp3"
+        },
+        {
+            "title": "Ndiuze",
+            "genre": "Afro-Pop",
+            "downloads": 595,
+            "released_year": "2023",
+            "artist": "Trappy Beats feat Max Ngwana",
+            "produced_by": "Trappy Beats",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Trappy Beats feat Max Ngwana Ndiuze.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Trappy Beats feat Max Ngwana - Ndiuze (Prod by Trappy Beats).mp3"
+        },
+        {
+            "title": " Mphaka",
+            "genre": "Amapiano",
+            "downloads": 3217,
+            "released_year": "2023",
+            "artist": "Zeze Kingston x LeuMas feat. Achina Gattah Aise x DJ Drew x Richard Billy",
+            "produced_by": "Leumas",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Zeze Kingston x Leumas feat Acina Gattah Aise x DJ Drew x Richard Billy Mphaka.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Zeze Kingston x LeuMas feat. Achina Gattah Aise x DJ Drew x Richard Billy - Mphaka (Prod by Leumas).mp3"
+        },
+        {
+            "title": "Dale",
+            "genre": "Afro-Pop",
+            "downloads": 904,
+            "released_year": "2023",
+            "artist": "Martin Anjelz feat Shammah Vocalz, AyCeeX & Chikondi Wiseman",
+            "produced_by": "Martin Anjelz",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Martin Anjelz feat Shammah Vocalz, AyCeeX & Chikondi Wiseman Dale-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Martin Anjelz feat Shammah Vocalz, AyCeeX & Chikondi Wiseman - Dale (Prod by Martin Anjelz).mp3"
+        },
+        {
+            "title": "2023",
+            "genre": "Dancehall",
+            "downloads": 598,
+            "released_year": "2023",
+            "artist": "Lazy B ",
+            "produced_by": "MCee & Mexy Beats",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Lazy B 2023.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Lazy B - 2023 (Prod by MCee & Mexy Beats).mp3"
+        },
+        {
+            "title": "Mpaka Pano",
+            "genre": "Afro-Pop",
+            "downloads": 708,
+            "released_year": "2023",
+            "artist": "M-Bizy feat Tarill ",
+            "produced_by": " Nic Nather & Stafa Awosh",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/M-Bizy feat Tarill Mpaka Kale-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/M-Bizy feat Tarill - Mpaka Kale (Prod by Nic Nather & Stafa Awosh).mp3"
+        },
+        {
+            "title": "Nda",
+            "genre": "HipHop",
+            "downloads": 1490,
+            "released_year": "2023",
+            "artist": "Henry Czar",
+            "produced_by": "Dj Brown",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Henry Czar Nda-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Henry Czar - Nda (Prod by DJ Brown).mp3"
+        },
+        {
+            "title": "Mphongo",
+            "genre": "Hip-Hop",
+            "downloads": 1916,
+            "released_year": "2023",
+            "artist": "Riffle Dynamic",
+            "produced_by": "ChuxTpat$ePlan & Trappy",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Riffle Dynamic Mphongo.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Riffle Dynamic - Mphongo (Prod by ChuxTpat$ePlan & Trappy).mp3"
+        },
+        {
+            "title": "Osama",
+            "genre": "Drill/Dancehall",
+            "downloads": 987,
+            "released_year": "2023",
+            "artist": "Sir Jent Kago",
+            "produced_by": "Yacksy Joker",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Sir Jent Kago Osama.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Sir Jent Kago - Osama (Prod by Yacksy Joker).mp3"
+        },
+        {
+            "title": "Liwachi ",
+            "genre": "Afro Fussion",
+            "downloads": 548,
+            "released_year": "2023",
+            "artist": "Papah Juxy x Lomey feat. Phantasma",
+            "produced_by": "Big Will",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Papah Juxy x Lomey feat. Phantasma Liwachi.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Papah Juxy x Lomey feat. Phantasma - Liwachi (Prod by Big Will).mp3"
+        },
+        {
+            "title": "Until Then",
+            "genre": "HipHop",
+            "downloads": 503,
+            "released_year": "2023",
+            "artist": "Lusaw",
+            "produced_by": "VQ & KND",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Lusaw Until Then.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Lusaw - Until Then (Produced by VQ & KND).mp3"
+        },
+        {
+            "title": "Miliyoni",
+            "genre": "Trap",
+            "downloads": 10108,
+            "released_year": "2023",
+            "artist": "C-Wimz",
+            "produced_by": " Stafa Awosh",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/C-Wimz Miliyoni-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/C-Wimz - Miliyoni (Prod by Stafa Awosh).mp3"
+        },
+        {
+            "title": "Why So Soon (Tremour Tribute)",
+            "genre": "Dancehall",
+            "downloads": 1016,
+            "released_year": "2023",
+            "artist": "Don Gogo & Khili99 ",
+            "produced_by": " Real P",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Don Gogo & Khili99 Why So Soon.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Don Gogo & Khili99 - Why So Soon (Tremour Tribute)(Prod by Real P).mp3"
+        },
+        {
+            "title": "Adani",
+            "genre": "HipHop",
+            "downloads": 1870,
+            "released_year": "2023",
+            "artist": "K-Banton feat Shammar Vocalz",
+            "produced_by": "Macia",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/K-Banton feat Shammar Vocalz Adani.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/K-Banton feat Shammar Vocalz - Adani (Prod by Macia).mp3"
+        },
+        {
+            "title": "Angelina",
+            "genre": "Afo",
+            "downloads": 439,
+            "released_year": "2023",
+            "artist": "Lomey feat Malimba",
+            "produced_by": "Juxy",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Lomey feat Malimba Angelina.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Lomey feat Malimba - Angelina (Prod by Juxy).mp3"
+        },
+        {
+            "title": "Jetty",
+            "genre": "Afro Dancehall",
+            "downloads": 1037,
+            "released_year": "2023",
+            "artist": "Tarill",
+            "produced_by": "Nic Nather & Veda Beats",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Tarill Jetty.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Tarill - Jetty (Prod by Nic Nather & Veda Beats).mp3"
+        },
+        {
+            "title": "Jocker",
+            "genre": "Afro/HipHop",
+            "downloads": 917,
+            "released_year": "2023",
+            "artist": "Slessor ",
+            "produced_by": "Martin Anjelz",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Slessor Joker.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Slessor - Joker (Prod by Martin Anjelz).mp3"
+        },
+        {
+            "title": "Ka Moyo",
+            "genre": "HipHop",
+            "downloads": 276,
+            "released_year": "2023",
+            "artist": "Izz Mw",
+            "produced_by": "Chriss Andres & Faksey 808",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Izz Mw Ka Moyo.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Izz Mw - Ka Moyo (Prod by Chriss Andres & Faksey 808).mp3"
+        },
+        {
+            "title": "Ungandiuze Chani",
+            "genre": "HipHop",
+            "downloads": 375,
+            "released_year": "2023",
+            "artist": "Khumie",
+            "produced_by": "Uchie",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Khumie Ungandiuze Chani.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Khumie - Ungandiuze Chani (Prod by Uchie).mp3"
+        },
+        {
+            "title": "Siyawo",
+            "genre": "Drill",
+            "downloads": 461,
+            "released_year": "2023",
+            "artist": "Shanka 705",
+            "produced_by": "Ron Viun",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Shanka 705 Siyawo-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Shanka 705 - Siyawo (Prod by Ron Viun).mp3"
+        },
+        {
+            "title": "Fela",
+            "genre": "Hiphop",
+            "downloads": 32767,
+            "released_year": "2023",
+            "artist": "Jillz x Quest x Achina Gattah Ase",
+            "produced_by": "Jillz",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Jillz x Quest x Achina Gattah Ase Fela-min.png",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Jillz x Quest x Achina Gattah Ase - Fela (Prod by Jillz).mp3"
+        },
+        {
+            "title": "Komweko",
+            "genre": "Amapiano",
+            "downloads": 1064,
+            "released_year": "2023",
+            "artist": "Yashie The Kid",
+            "produced_by": "STML",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Yashie The Kid Komweko.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Yashie The Kid - Komweko (Prod by STML).mp3"
+        },
+        {
+            "title": "Chiomba NKhanga",
+            "genre": "Christian Music",
+            "downloads": 589,
+            "released_year": "2023",
+            "artist": "Zyugah x Blessed Citizen x Elegant Raps",
+            "produced_by": "Mwanie",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Zyugah x Blssed Citizen x Elegant Raps Chiomba NKhanga-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Zyugah x Blessed Citizen x Elegant Raps - Chiomba NKhanga (Prod by Mwanie).mp3"
+        },
+        {
+            "title": " Dyeredyi Trap",
+            "genre": "Trap",
+            "downloads": 573,
+            "released_year": "2023",
+            "artist": "Cyfa Steez x Tricky Barz",
+            "produced_by": "Gonos & Trappy Beats",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Cyfa Steez x Tricky Barz Dyeredyi Trap-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Cyfa Steez x Tricky Barz - Dyeredyi Trap (Prod by Gonos & Trappy Beats).mp3"
+        },
+        {
+            "title": "Ndakwera Kwera Remix",
+            "genre": "Drill",
+            "downloads": 1129,
+            "released_year": "2023",
+            "artist": "Gaza Uno feat Yashie The Kid, Guntolah, Man G, Chain Oh, Chesper & Fresh Don",
+            "produced_by": "Oops & Extra Beatz",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Gaza Uno Ndakwera Kwera Remix-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Gaza Uno feat Yashie The Kid, Guntolah, Man G, Chain Oh, Chesper & Fresh Don - Ndakwera Kwera Remix (Prod by Oops & Extra Beatz).mp3"
+        },
+        {
+            "title": "High Molalo",
+            "genre": "Afro-Dancehall",
+            "downloads": 591,
+            "released_year": "2023",
+            "artist": "Dotolo ",
+            "produced_by": "Starbright",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Dotolo High Molalo.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Dotolo - High Molalo (Prod by Starbright).mp3"
+        },
+        {
+            "title": "Ulendo",
+            "genre": "Dancehall",
+            "downloads": 348,
+            "released_year": "2023",
+            "artist": "Orator",
+            "produced_by": "TakTic",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Orator Ulendo.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Orator - Ulendo (Prod by TakTic).mp3"
+        },
+        {
+            "title": "Zinthu",
+            "genre": "Afro Dancehall",
+            "downloads": 970,
+            "released_year": "2023",
+            "artist": "Chibelekelo",
+            "produced_by": "Dj Lanjie",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Chibelekelo Zinthu-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Chibelekelo - Zinthu (Prod by DJ Langie).mp3"
+        },
+        {
+            "title": " Nkhawa",
+            "genre": "Hiphop",
+            "downloads": 526,
+            "released_year": "2023",
+            "artist": "Mo Beezy feat Macia ",
+            "produced_by": "Macia",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Mo Beezy feat Macia Nkhawa.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Mo Beezy feat Macia - Nkhawa (Prod by Macia).mp3"
+        },
+        {
+            "title": "Confidence Yanga",
+            "genre": "Christian Amapiano",
+            "downloads": 1286,
+            "released_year": "2023",
+            "artist": "Steve Wazisomo Muliya feat Success",
+            "produced_by": "Hope Cizzle, J Mass & Chawa Beats",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Steve Wazisomo Muliya feat Success Confidence Yanga.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Steve Wazisomo Muliya feat Success - Confidence Yanga (Prod by Hope Cizzle, J Mass & Chawa Beats).mp3"
+        },
+        {
+            "title": "Vuto Nchiwanda",
+            "genre": "HipHop",
+            "downloads": 486,
+            "released_year": "2023",
+            "artist": "Trap Trick",
+            "produced_by": "Mingo",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Trap Trick Vuto Nchiwanda.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Trap Trick - Vuto Nchiwanda (Prod by Mingo).mp3"
+        },
+        {
+            "title": "Takwiya",
+            "genre": "HipHop",
+            "downloads": 349,
+            "released_year": "2023",
+            "artist": "Zemo X-Malawi",
+            "produced_by": "Spectrum Radar & M Cee",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Zemo X-Malawi  Takwiya.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Zemo X-Malawi - Takwiya (Prod by Spectrum Radar & M Cee).mp3"
+        },
+        {
+            "title": "Kaye",
+            "genre": "AfroPop",
+            "downloads": 435,
+            "released_year": "2023",
+            "artist": "Pop Young",
+            "produced_by": "Taktic",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Pop Young Love Ticket EP.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/5. Pop Young -  Kaye (Prod by Taktic).mp3"
+        },
+        {
+            "title": "Bata",
+            "genre": "Afro-Pop",
+            "downloads": 3489,
+            "released_year": "2023",
+            "artist": "Kellie Divine",
+            "produced_by": "TakTic & Nyanda",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Kellie Divine Bata.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Kellie Divine - Bata (Prod by TakTic & Nyanda).mp3"
+        },
+        {
+            "title": "Ponda",
+            "genre": "Amapiano",
+            "downloads": 421,
+            "released_year": "2023",
+            "artist": "Nakali",
+            "produced_by": "New Kings Records",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Nakali Ponda.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Nakali - Ponda (Prod by New Kings Records).mp3"
+        },
+        {
+            "title": " Island Setting",
+            "genre": "Dancehall",
+            "downloads": 422,
+            "released_year": "2023",
+            "artist": "Ishan Cyapital",
+            "produced_by": "Don Amour & Sispence",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Ishan Capital Island Settings.png",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Ishan Cyapital - Island Setting (Prod by Don Amour & Sispence).mp3"
+        },
+        {
+            "title": "Comfort",
+            "genre": "AfroBeat",
+            "downloads": 2500,
+            "released_year": "2023",
+            "artist": "Pop Young feat Gemini Major",
+            "produced_by": "Nator 21, Cuff B & TakTic",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Pop Young feat Gemini Major Comfort.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Pop Young feat Gemini Major - Comfort (Prod by Nator 21, Cuff B & TakTic).mp3"
+        },
+        {
+            "title": "Mzuzu Like London",
+            "genre": "Trap",
+            "downloads": 704,
+            "released_year": "2023",
+            "artist": "Mzuzu Mafia",
+            "produced_by": "Unknown",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Mzuzu Mafia Mzuzu Like London.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Mzuzu Mafia - Mzuzu Like London.mp3"
+        },
+        {
+            "title": "Ulenje",
+            "genre": "HipHop",
+            "downloads": 438,
+            "released_year": "2023",
+            "artist": "Inno BlaQ & Juju Matrixx",
+            "produced_by": "ChuxTpat$ePlan & Klassy",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Inno BlaQ & Juju Matrixx Ulenje-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Inno BlaQ & Juju Matrixx - Ulenje (Prod by ChuxTpat$ePlan & Klassy).mp3"
+        },
+        {
+            "title": "Finale & Associate Athem",
+            "genre": "HipHop",
+            "downloads": 2213,
+            "released_year": "2023",
+            "artist": "Sean Grown x Romain Escobar x Hayest x Cee Praise",
+            "produced_by": "Uknown",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Sean Grown x Romain Escobar x Hayest x Cee Praise Finale & Associate Athem.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Sean Grown x Romain Escobar x Hayest x Cee Praise - Finale & Associate Athem.mp3"
+        },
+        {
+            "title": "Mmanja Mwanu",
+            "genre": "Christian Music",
+            "downloads": 2187,
+            "released_year": "2023",
+            "artist": "Tsar Leo feat Gwamba x Joe Kellz ",
+            "produced_by": "J-One & E-Ril",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Tsar Leo feat Gwamba x Joe Kellz Mmanja Mwanu.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Tsar Leo feat Gwamba x Joe Kellz - Mmanja Mwanu (Prod by J-One & E-Ril).mp3"
+        },
+        {
+            "title": "Angola",
+            "genre": "Dancehall Fussion",
+            "downloads": 2758,
+            "released_year": "2023",
+            "artist": "Malinga feat Dr Benedicto Wokomaatani Malunga",
+            "produced_by": "Uchie",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Malinga feat Dr Benedicto Wokomaatani Malunga Angola.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Malinga feat Dr Benedicto Wokomaatani Malunga - Angola (Prod by Uchie).mp3"
+        },
+        {
+            "title": "Kokoliko",
+            "genre": "Afrobeat/Hip-Hop",
+            "downloads": 1127,
+            "released_year": "2023",
+            "artist": "Mastol feat Faith Mussa & Shammah Vocals",
+            "produced_by": "DJ Sley",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Mastol feat Faith Mussa & Shammah Vocals Kokoliko.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Mastol feat Faith Mussa & Shammah Vocals - Kokoliko (Prod by DJ Sley).mp3"
+        },
+        {
+            "title": "Anyakwawa",
+            "genre": "Dancehall",
+            "downloads": 543,
+            "released_year": "2023",
+            "artist": "Big Trump feat Dada Morer x Haso Jahvillan x Shaby Dem Boy",
+            "produced_by": "Big Trump",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Big Trump feat Dada Morer x Haso Jahvillan x Shaby Dem Boy Anyakwawa.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Big Trump feat Dada Morer x Haso Jahvillan x Shaby Dem Boy - Anyakwawa (Prod by Big Trump).mp3"
+        },
+        {
+            "title": "Ndimazisaka",
+            "genre": "Trap",
+            "downloads": 2189,
+            "released_year": "2023",
+            "artist": "M.Y The Kid",
+            "produced_by": "Jay Emm & Ace Tee",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/M.Y The Kid Ndimazisaka.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/M.Y The Kid - Ndimazisaka (Prod by Jay Emm & Ace Tee).mp3"
+        },
+        {
+            "title": "Tidya",
+            "genre": "Dancehall",
+            "downloads": 851,
+            "released_year": "2023",
+            "artist": "Orator x Quessy x Lazy B x Ah Shatter ",
+            "produced_by": "M Cee",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Orator x Quessy x Lazy B x Ah Shatter Tidya.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Orator x Quessy x Lazy B x Ah Shatter - Tidya (Prod by M Cee).mp3"
+        },
+        {
+            "title": "Samagona",
+            "genre": "Amapiano",
+            "downloads": 1555,
+            "released_year": "2023",
+            "artist": "Bucci feat Temwah",
+            "produced_by": "DJ Fibbs",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Bucci feat Temwah Samagona.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Bucci feat Temwah - Samagona (Prod by DJ Fibbs).mp3"
+        },
+        {
+            "title": "Kulikulu Remix",
+            "genre": "Dancehall",
+            "downloads": 2634,
+            "released_year": "2023",
+            "artist": "Kauden feat Kellie Divine, Carnip Mdzodzo, Khomerah Mdzodzo, Dirty Flo, K-Banton, King Chambiecco & Chargie ",
+            "produced_by": "Kauden & King Duda",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Kauden Kulikulu Remix-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Kauden feat Kellie Divine, Carnip Mdzodzo, Khomerah Mdzodzo, Dirty Flo, K-Banton, King Chambiecco & Chargie - Kulikulu Remix (Prod by Kauden & King Duda).mp3"
+        },
+        {
+            "title": "Onsewa",
+            "genre": "R&B",
+            "downloads": 325,
+            "released_year": "2023",
+            "artist": "Man G feat Fresh Don",
+            "produced_by": " Oops",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Man G feat Fresh Don - Onsewa-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Man G feat Fresh Don - Onsewa (Prod by Oops).mp3"
+        },
+        {
+            "title": "Noise Maker",
+            "genre": "Trap/Dancehall",
+            "downloads": 538,
+            "released_year": "2023",
+            "artist": "Merder Zack x King Dolar x Lord GaGa",
+            "produced_by": "T Fresh",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Merder Zack x King Dolar x Lord GaGa Noise Maker-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Merder Zack x King Dolar x Lord GaGa - Noise Maker (Prod by T Fresh).mp3"
+        },
+        {
+            "title": " Your Mama",
+            "genre": "Afro Dancehall",
+            "downloads": 1351,
+            "released_year": "2023",
+            "artist": "Lady Aika",
+            "produced_by": " DJ Sley & Veda Beats",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Lady Aika Your Mama-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Lady Aika - Your Mama (Prod by DJ Sley & Veda Beats).mp3"
+        },
+        {
+            "title": "Bang After Bang",
+            "genre": "Dancehall",
+            "downloads": 693,
+            "released_year": "2023",
+            "artist": "General Waxy feat Blackafella x Born Chriss",
+            "produced_by": " Ndolman",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/General Waxy feat Blackafella x Born Chriss Bang After Bang-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/General Waxy feat Blackafella x Born Chriss - Bang After Bang (Prod by Ndolman).mp3"
+        },
+        {
+            "title": "Badmind & Jealous",
+            "genre": "Dancehall",
+            "downloads": 685,
+            "released_year": "2023",
+            "artist": "Ababa Surgeant",
+            "produced_by": " Stich Fray & DJ Savie",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Ababa Surgeant Badmind & Jealous-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Ababa Surgeant - Badmind & Jealous (Prod by Stich Fray & DJ Savie).mp3"
+        },
+        {
+            "title": "Dongo",
+            "genre": "Dancehall",
+            "downloads": 459,
+            "released_year": "2023",
+            "artist": "Gaspar Golilo feat Ah Govah, Luc V & Comrade Tamunyata ",
+            "produced_by": "Zupah",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Gaspar Golilo feat Ah Govah, Luc V & Comrade Tamunyata Dongo-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Gaspar Golilo feat Ah Govah, Luc V & Comrade Tamunyata - Dongo (Prod by Zupah).mp3"
+        },
+        {
+            "title": "Confusion",
+            "genre": "Afro Dancehall",
+            "downloads": 221,
+            "released_year": "2023",
+            "artist": "Captain Shaka feat Don Levo",
+            "produced_by": "Big Dawg",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Captain Shaka feat Don Levo Confussion.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Captain Shaka feat Don Levo - Confusion (Prod by Big Dawg).mp3"
+        },
+        {
+            "title": "Moyo",
+            "genre": "Dancehall",
+            "downloads": 455,
+            "released_year": "2023",
+            "artist": "Orator",
+            "produced_by": "G.I.B Records",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Orator Moyo.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Orator - Moyo (Prod by G.I.B Records).mp3"
+        },
+        {
+            "title": "Salome",
+            "genre": "Afro-Pop/Hiphop",
+            "downloads": 730,
+            "released_year": "2023",
+            "artist": "Lil Shy feat Guntolah",
+            "produced_by": "Oops",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Lil Shy feat Guntolah Salome-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Lil Shy feat Guntolah - Salome (Prod by Oops).mp3"
+        },
+        {
+            "title": " Taken",
+            "genre": "Dancehall",
+            "downloads": 456,
+            "released_year": "2023",
+            "artist": "Finah Mapira",
+            "produced_by": " DJ OK",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Finah Mapira Taken.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Finah Mapira - Taken (Prod by DJ OK).mp3"
+        },
+        {
+            "title": "Ayi",
+            "genre": "Amapiano",
+            "downloads": 256,
+            "released_year": "2023",
+            "artist": "Shats feat Glyn",
+            "produced_by": "Shats",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Shats feat Glyn Ayi.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Shats feat Glyn - Ayi (Prod by Shats).mp3"
+        },
+        {
+            "title": "Cross",
+            "genre": "Amapiano",
+            "downloads": 440,
+            "released_year": "2023",
+            "artist": "Trixie Beyank",
+            "produced_by": "Jeremy & Veda Beats",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Trixie Beyank - Cross (Prod by Jeremy & Veda Beats).mp3"
+        },
+        {
+            "title": "Hapaaa",
+            "genre": "AfroBeats",
+            "downloads": 293,
+            "released_year": "2023",
+            "artist": "Yangtse",
+            "produced_by": "Stafa Awosh & Eio Kae Dee",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Yangtse Hapaaa-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Yangtse - Hapaaa (Prod by Stafa Awosh & Eio Kae Dee).mp3"
+        },
+        {
+            "title": "Far Away",
+            "genre": "AfroPop",
+            "downloads": 965,
+            "released_year": "2023",
+            "artist": " Pop Young feat. Malinga",
+            "produced_by": "Taktic & Nyanda",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Pop Young Love Ticket EP.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/3. Pop Young - Far Away featuring Malinga (Prod by Taktic & Nyanda).mp3"
+        },
+        {
+            "title": " Anzanu",
+            "genre": "Amapiano",
+            "downloads": 2988,
+            "released_year": "2023",
+            "artist": "Aidfest & Kineo x Zeze Kingston feat Leumas & Richard Billy",
+            "produced_by": "Leumas & Richard Billy",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Aidfest & Kineo x Zeze Kingston feat Leumas & Richard Billy Anzanu.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Aidfest & Kineo x Zeze Kingston feat Leumas & Richard Billy - Anzanu (Prod by Leumas & Richard Billy).mp3"
+        },
+        {
+            "title": "Mpepala",
+            "genre": "HipHop",
+            "downloads": 1077,
+            "released_year": "2023",
+            "artist": "ILL Mind feat Ace Aise & Nitrix ",
+            "produced_by": "DJ OK",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/ILL Mind feat Ace Aise & Nitrix Mpepala.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/ILL Mind feat Ace Aise & Nitrix - Mpepala (Prod by DJ OK).mp3"
+        },
+        {
+            "title": "Mwantinti",
+            "genre": "HipHop",
+            "downloads": 1546,
+            "released_year": "2023",
+            "artist": "Phyzix feat Teddy Makadi & Pon G ",
+            "produced_by": "Ghostly, Drexxi, Ze Fiasto & Pon G",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Phyzix feat Teddy Makadi & Pon G Mwantinti.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Phyzix feat Teddy Makadi & Pon G - Mwantinti (Prod by Ghostly, Drexxi, Ze Fiasto & Pon G).mp3"
+        },
+        {
+            "title": "Nale",
+            "genre": "Amapiano",
+            "downloads": 613,
+            "released_year": "2023",
+            "artist": "Trappy Beats",
+            "produced_by": "Trappy Beats",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Trappy Beats Nale.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Trappy Beats - Nale (Prod by Trappy Beats).mp3"
+        },
+        {
+            "title": "Chenge",
+            "genre": "AfroPop",
+            "downloads": 460,
+            "released_year": "2023",
+            "artist": "Pop Young feat. San B",
+            "produced_by": "Taktic",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Pop Young Love Ticket EP.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/4. Pop Young - Chenge featuring San B (Prod by Taktic).mp3"
+        },
+        {
+            "title": "Smart & Fresh",
+            "genre": "Dancehall",
+            "downloads": 4787,
+            "released_year": "2023",
+            "artist": "Richie Mafia feat Octavian 265",
+            "produced_by": " Artse Beatz",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Richie Mafia feat Octavian 265 Smart & Fresh.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Richie Mafia feat Octavian 265 - Smart & Fresh (Prod by Artse Beatz).mp3"
+        },
+        {
+            "title": "We Alright",
+            "genre": "HipHop",
+            "downloads": 1049,
+            "released_year": "2023",
+            "artist": "Mzuzu Mafia",
+            "produced_by": "Zephy Oldies",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Mzuzu Mafia We Alright.png",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Mzuzu Mafia - We Alright (Prod by Zephy Oldies).mp3"
+        },
+        {
+            "title": "Nsanje Extended Mix",
+            "genre": "Afro-Soul",
+            "downloads": 235,
+            "released_year": "2023",
+            "artist": "GrisVer feat Mazani x Rei",
+            "produced_by": "GrisVer",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Grisver feat Mazani x Rei Nsanje Extended Mix-min.png",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/GrisVer feat Mazani x Rei - Nsanje Extended Mix.mp3"
+        },
+        {
+            "title": "Cross Ya Bho",
+            "genre": "Dancehall",
+            "downloads": 219,
+            "released_year": "2023",
+            "artist": "Sir Barakanta x Noxiliator",
+            "produced_by": "Great G",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Sir Barakanta x Noxiliator Cross Ya Bho.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Sir Barakanta x Noxiliator - Cross Ya Bho (Prod by Great G).mp3"
+        },
+        {
+            "title": "Bola",
+            "genre": "Afro Dancehall",
+            "downloads": 215,
+            "released_year": "2023",
+            "artist": "Don Brush",
+            "produced_by": "Taktic",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Don Brush Bola.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Don Brush - Bola (Prod by Taktic).mp3"
+        },
+        {
+            "title": "Ndede",
+            "genre": "Dance",
+            "downloads": 1541,
+            "released_year": "2023",
+            "artist": "Jeg Tellem & VJ Ice feat Monique",
+            "produced_by": "Blage & DJ OK",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Jeg Tellem & VJ Ice feat Monique Ndede.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Jeg Tellem & VJ Ice feat Monique - Ndede (Prod by Blage & DJ OK).mp3"
+        },
+        {
+            "title": " Church",
+            "genre": "Afro Dancehall/Hip-hop",
+            "downloads": 277,
+            "released_year": "2023",
+            "artist": "Huplex Thossa feat Ayo Landie x Treize Jordan x Kissy",
+            "produced_by": "Unknown",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Huplex Thossa feat Ayo Landie x Treize Jordan x Kissy Church.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Huplex Thossa feat Ayo Landie x Treize Jordan x Kissy - Church.mp3"
+        },
+        {
+            "title": "Ecstacy",
+            "genre": "Hiphop",
+            "downloads": 399,
+            "released_year": "2023",
+            "artist": "Gifted feat Episodz & Viddiex Fyah",
+            "produced_by": "Viddiex Fyah",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Gifted feat Episodz & Viddiex Fyah Ecstacy.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Gifted feat Episodz & Viddiex Fyah - Ecstacy (Prod by Viddiex Fyah).mp3"
+        },
+        {
+            "title": "Young & Free",
+            "genre": "Afro Dancehall",
+            "downloads": 2659,
+            "released_year": "2023",
+            "artist": "Sean Morgan",
+            "produced_by": "Cuff-B",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Sean Morgan Young & Free.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Sean Morgan - Young & Free (Prod by Cuff-B).mp3"
+        },
+        {
+            "title": " Kusangalala",
+            "genre": "Amapiano",
+            "downloads": 2912,
+            "released_year": "2023",
+            "artist": "Zeze Kingston x Leumas",
+            "produced_by": "Leumas",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Zeze Kingston x Leumas Kusangalala.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Zeze Kingston x Leumas - Kusangalala.mp3"
+        },
+        {
+            "title": "Zopusa",
+            "genre": "Hiphop",
+            "downloads": 2796,
+            "released_year": "2023",
+            "artist": "Third Eye & Martin Anjelz",
+            "produced_by": "Martin Anjelz",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Third Eye & Martin Anjelz Zopusa.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Third Eye & Martin Anjelz - Zopusa.mp3"
+        },
+        {
+            "title": "Love Me For Life",
+            "genre": "Afro-Dancehall",
+            "downloads": 3754,
+            "released_year": "2023",
+            "artist": "Ben Sam Entertainment feat Tsar Leo x Malinga x Blasto",
+            "produced_by": "Tricky Beats & King Duda",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Ben Sam Entertainment feat Tsar Leo x Malinga x Blasto Love Me For Life.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Ben Sam Entertainment feat Tsar Leo x Malinga x Blasto - Love Me For Life (Prod by Tricky Beats & King Duda).mp3"
+        },
+        {
+            "title": "Ndibweza",
+            "genre": "Dancehall",
+            "downloads": 4085,
+            "released_year": "2023",
+            "artist": "Chizmo Sting",
+            "produced_by": " Zupah & Radar",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Chizmo Sting Ndibweza-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Chizmo Sting - Ndibweza (Prod by Zupah & Radar).mp3"
+        },
+        {
+            "title": " Wash & Wear ",
+            "genre": "Dancehall",
+            "downloads": 3074,
+            "released_year": "2023",
+            "artist": "Veda Njucci ",
+            "produced_by": "Uchie",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Veda Njucci Wash & Wear.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Veda Njucci - Wash & Wear (Prod by Uchie).mp3"
+        },
+        {
+            "title": "Anthem",
+            "genre": "Hiphop",
+            "downloads": 2741,
+            "released_year": "2023",
+            "artist": "Charisma & Quest",
+            "produced_by": "Unknown",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Charisma x Quest Anthem.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Charisma & Quest - Anthem.mp3"
+        },
+        {
+            "title": "WyDoMeSo",
+            "genre": "AfroBeat",
+            "downloads": 2310,
+            "released_year": "2023",
+            "artist": "Onesimus",
+            "produced_by": "DJ Megi",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Onesimus WyDoMeSo.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Onesimus - WyDoMeSo (Prod by DJ Megi).mp3"
+        },
+        {
+            "title": "Aah Inu (Tiyeni)",
+            "genre": "HipHop",
+            "downloads": 302,
+            "released_year": "2023",
+            "artist": "Knievel Raps feat Monte Linz",
+            "produced_by": "Studio 24 & Darkage",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Knievel Raps feat Monte Linz Aah Inu (Tiyeni)-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Knievel Raps feat Monte Linz - Aah Inu (Tiyeni) (Prod by Studio 24 & Darkage).mp3"
+        },
+        {
+            "title": "Amen",
+            "genre": "AfroBeats/Hiphop",
+            "downloads": 3819,
+            "released_year": "2023",
+            "artist": "Suffix feat Chile One & Eli Njuchi",
+            "produced_by": "Suffix & Savage Beats",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Suffix feat Chile One & Eli Njuchi Amen.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Suffix feat Chile One & Eli Njuchi - Amen.mp3"
+        },
+        {
+            "title": "Zisankho ",
+            "genre": "Afro R&B",
+            "downloads": 420,
+            "released_year": "2023",
+            "artist": "Harique",
+            "produced_by": "Gxfted",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Harique Zisankho.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Harique - Zisankho (Prod by Gxfted).mp3"
+        },
+        {
+            "title": "Maphuzo",
+            "genre": "Drill",
+            "downloads": 2379,
+            "released_year": "2023",
+            "artist": "Walycris x Nitrix x Mellz",
+            "produced_by": "Juxy & MZC",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Walycris x Nitrix x Mellz  Maphuzo.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Walycris x Nitrix x Mellz - Maphuzo (Prod by Juxy & MZC).mp3"
+        },
+        {
+            "title": "Wrong Number",
+            "genre": "Afro DanceHall",
+            "downloads": 1612,
+            "released_year": "2023",
+            "artist": "Di Badder feat Squawk20Three",
+            "produced_by": "Manito",
+            "song_cover": "https://da70jmtbwpiws.cloudfront.net/Di Badder featuring Squawk20Three Wrong Number-min.jpg",
+            "song_link": "https://da70jmtbwpiws.cloudfront.net/Di Badder feat Squawk20Three - Wrong Number (Prod by Manito).mp3"
+        }
+    ]
+}
