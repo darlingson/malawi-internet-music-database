@@ -1,0 +1,87 @@
+{"artist":[
+    {
+        "name":"Merchah",
+        "isCollective":false,
+        "collectiveName":null,
+        "genre":"Afro"
+    },
+    {
+        "name":"Kell Kay",
+        "isCollective":false,
+        "collectiveName":null,
+        "genre":"Afro"
+    },
+    {
+        "name":"Inno BlaQ",
+        "isCollective":false,
+        "collectiveName":null,
+        "genre":"HipHop"
+    },
+    {
+        "name":"Juju Matrix",
+        "isCollective":false,
+        "collectiveName":null,
+        "genre":"HipHop"
+    },
+    {
+        "name":"Charisma",
+        "isCollective":false,
+        "collectiveName":null,
+        "genre":"HipHop/Trap"
+    },
+    {
+        "name":"Bee Jay",
+        "isCollective":false,
+        "collectiveName":null,
+        "genre":"HipHop"
+    },
+    {
+        "name":"Kay Stevoh",
+        "isCollective":false,
+        "collectiveName":null,
+        "genre":"DanceHall"
+    },
+    {
+        "name":"ToniCity",
+        "isCollective":false,
+        "collectiveName":null,
+        "genre":"DanceHall"
+    },
+    {
+        "name":"ChuxTpat$ePlan",
+        "isCollective":false,
+        "collectiveName":null,
+        "genre":"DanceHall"
+    },
+    {
+        "name":"DJ Langie",
+        "isCollective":false,
+        "collectiveName":null,
+        "genre":"DanceHall"
+    },
+    {
+        "name":"Janta",
+        "isCollective":false,
+        "collectiveName":null,
+        "genre":"Afro"
+    },
+    {
+        "name":"Chawa Beats",
+        "isCollective":false,
+        "collectiveName":null,
+        "genre":"Afro"
+    },
+    {
+        "name":"Big Xhosa",
+        "isCollective":false,
+        "collectiveName":null,
+        "genre":"Amapiano"
+    },
+    {
+        "name":"Zeze Kingston",
+        "isCollective":false,
+        "collectiveName":null,
+        "genre":"Amapiano"
+    }
+]
+}
