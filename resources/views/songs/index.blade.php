@@ -1,9 +1,7 @@
-@extends('layouts.app')
+<head>
+    @vite(['resources/js/songs.js'])
+</head>
 
-@section('content')
-  <div id="app">
-    <song-search></song-search>
-  </div>
-
-  <script src="{{ mix('js/app.js') }}"></script>
-@endsection
+<body>
+    <div id="app"></div>
+</body>
