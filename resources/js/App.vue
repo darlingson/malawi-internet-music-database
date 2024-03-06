@@ -1,5 +1,5 @@
 <template>
     <h1>
-        VueSchool Rocks! 🤘
+        Hello Vuejs 👍🏿
     </h1>
 </template>
