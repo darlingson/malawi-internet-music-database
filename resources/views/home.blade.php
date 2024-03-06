@@ -14,10 +14,8 @@
     </header>
 
     <main class="p-4">
-        <div id="app" class="container">
-            <welcome></welcome>
-            <featured-content></featured-content>
-            <upcoming-events></upcoming-events>
+        <div class="container">
+            <div id="app" ></div>
         </div>
     </main>
 
