@@ -13,7 +13,7 @@ class SongsController extends Controller
      */
     public function index()
     {
-        $songs = Song::all();
+        $songs = Song::paginate(5);
         return view('songs.index', compact('songs'));
     }
 

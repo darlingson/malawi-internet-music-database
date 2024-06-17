@@ -24,7 +24,7 @@
             @endforelse
 
             <!-- Pagination links if needed -->
-            {{-- {{ $songs->links() }} --}}
+            {{ $songs->links() }}
         </div>
     </div>
 </div>
