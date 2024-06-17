@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\ProfileController;
+use App\Http\Controllers\SongsController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -16,5 +17,14 @@ Route::middleware('auth')->group(function () {
     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
 });
+
+Route::get('/songs',[SongsController::class, 'index'])->name('songs.index');
+Route::get('/songs/create',[SongsController::class, 'create'])->name('songs.create');
+Route::post('/songs',[SongsController::class, 'store'])->name('songs.store');
+Route::get('/songs/{song}',[SongsController::class, 'show'])->name('songs.show');
+Route::get('/songs/{song}/edit',[SongsController::class, 'edit'])->name('songs.edit');
+Route::put('/songs/{song}',[SongsController::class, 'update'])->name('songs.update');
+Route::delete('/songs/{song}',[SongsController::class, 'destroy'])->name('songs.destroy');
+
 
 require __DIR__.'/auth.php';
