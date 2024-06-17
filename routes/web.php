@@ -26,5 +26,8 @@ Route::get('/songs/{song}/edit',[SongsController::class, 'edit'])->name('songs.e
 Route::put('/songs/{song}',[SongsController::class, 'update'])->name('songs.update');
 Route::delete('/songs/{song}',[SongsController::class, 'destroy'])->name('songs.destroy');
 
+//home routes
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Route::get('/search', [App\Http\Controllers\HomeController::class, 'search'])->name('search');
 
 require __DIR__.'/auth.php';
